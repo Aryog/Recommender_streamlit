@@ -1,0 +1,5 @@
+venv
+movies.pkl
+movies_dict.pkl
+similarity.pkl
+.ipynb_checkpoints/
