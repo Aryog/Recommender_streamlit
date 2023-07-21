@@ -1,5 +1,5 @@
 venv
-movies.pkl
+movie.pkl
 movies_dict.pkl
 similarity.pkl
 .ipynb_checkpoints/
